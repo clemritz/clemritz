@@ -6,7 +6,7 @@ My name is Clément Ritz. After studying law for 5 years, I decided to venture i
 I am currently working on personal projects to strengthen my web development skills.
 
 ## 🌱 Currently Learning
-I am continuously learning and exploring new technologies, frameworks, and languages in the field of web development. I'm particularly interested in frontend development and JavaScript frameworks like React and Vue.
+I am continuously learning and exploring new technologies, frameworks, and languages in the field of web development. I'm particularly interested in frontend development and JavaScript frameworks like React.
 
 ## 👯 Looking to Collaborate On
 I'm open to collaborating on interesting web development projects, especially those involving frontend development, user experience design, and creating interactive web applications.
