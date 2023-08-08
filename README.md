@@ -24,3 +24,6 @@ You can reach me through the following channels:
 
 ## 👨🏼‍💻 Portfolio
 - Portfolio: [clemritz](https://www.clemritz.com/)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=clemritz)](https://git.io/streak-stats)
